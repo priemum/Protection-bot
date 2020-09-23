@@ -1,3 +1,4 @@
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/TheMaestro0/Protection-bot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/TheMaestro0/Protection-bot/context:javascript)
 # Protection bot
 
 ## Requirements
