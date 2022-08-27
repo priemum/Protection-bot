@@ -5,7 +5,7 @@ const client = new Client(token, {
   disableEvents: ["TYPING_START", "PRESENCE_UPDATE", "VOICE_STATE_UPDATE", "USER_UPDATE", "MESSAGE_UPDATE", "MESSAGE_DELETE", "MESSAGE_DELETE_BULK"],
   disableEveryone: true,
   getAllUsers: true
-});
+});             
 
 var actions = [];
 
